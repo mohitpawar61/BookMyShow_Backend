@@ -1,0 +1,19 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>BookMyShow Backend logo</title>
+<desc>A movie ticket stub icon with a film reel accent, representing a movie ticket booking backend</desc>
+<rect x="190" y="140" width="300" height="140" rx="10" fill="#fef3c7" stroke="#d97706" stroke-width="2"/>
+<circle cx="190" cy="210" r="14" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+<circle cx="490" cy="210" r="14" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+<line x1="330" y1="150" x2="330" y2="270" stroke="#d97706" stroke-width="1.5" stroke-dasharray="6,6"/>
+<circle cx="255" cy="185" r="26" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+<circle cx="255" cy="185" r="7" fill="#d97706"/>
+<circle cx="235" cy="170" r="5" fill="#fbbf24"/>
+<circle cx="275" cy="170" r="5" fill="#fbbf24"/>
+<circle cx="235" cy="200" r="5" fill="#fbbf24"/>
+<circle cx="275" cy="200" r="5" fill="#fbbf24"/>
+<text x="410" y="195" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#92400e">SCREEN 4</text>
+<text x="410" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#b45309">SEAT G-12</text>
+<text x="410" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#b45309">7:30 PM</text>
+<text x="340" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="600" fill="#1e293b">BookMyShow Backend</text>
+<text x="340" y="358" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#64748b">Movie ticket booking REST API</text>
+</svg>
