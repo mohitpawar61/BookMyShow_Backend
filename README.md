@@ -13,7 +13,7 @@
 ![License](https://img.shields.io/badge/License-Educational-blue)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow)
 
-<img src="docs/logo.svg" width="300" alt="BookMyShow Backend logo">
+<img src="docs/logo (1).svg" width="300" alt="BookMyShow Backend logo">
 
 
 
